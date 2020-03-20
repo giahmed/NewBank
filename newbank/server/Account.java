@@ -13,5 +13,9 @@ public class Account {
 	public String toString() {
 		return (accountName + ": " + openingBalance);
 	}
+	public String newString() {
+		return null;
+		
+	}
 
 }
